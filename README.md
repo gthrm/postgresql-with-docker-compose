@@ -6,7 +6,7 @@ Prerequisites
 1. install docker
 1. install docker-compose
 1. install git
-1. clone repository: `git clone --recursive https://github.com/zhao-lin-li/postgresql-with-docker-compose.git`
+1. clone repository: `https://github.com/gthrm/postgresql-with-docker-compose`
 
 Getting Started
 ---------------
